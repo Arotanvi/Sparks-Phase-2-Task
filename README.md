@@ -6,3 +6,4 @@ Description
 2.While Last 1 is not connected to anything .
 3.Also It can run on Xampp server only if Xampp is installed in laptop and also every folder has been put into htdocs folder of Xampp located in C drive.
 4. All rest APIs can do 4 functions add,insert,delete,etc. of CRUD as mentioned.
+5. Also A little Bit of Front End in form buttons have been added too
